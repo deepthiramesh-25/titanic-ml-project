@@ -3,7 +3,7 @@
 **Objective**
 Predict Titanic passenger survival using logistic regression and Python.
 
-** Dataset**
+**Dataset**
 - Source: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
 **What I Did**
@@ -14,6 +14,7 @@ Predict Titanic passenger survival using logistic regression and Python.
 
 **Notes**
 This was my first dataset project. I fixed some errors myself during the process, which helped me learn practical problem-solving in data science.i tried to interpret the visualizations which helps me to understand the data.
+
 **Tools Used**
 - Python, Pandas, NumPy
 - Seaborn, Matplotlib
